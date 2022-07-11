@@ -1,0 +1,6 @@
+<view class="page">
+  <view class="title">{{ message }}</view>
+  <view>
+    <van-button plain type="info" bindtap="test">测试接口</van-button>
+  </view>
+</view>
